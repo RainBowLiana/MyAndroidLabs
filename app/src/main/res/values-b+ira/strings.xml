@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kamelia\'s Android Labs</string>
+    <string name="hello_message">روز همگی بخیر!</string>
+      <string name="button_message">من دکمه هستم</string>
+</resources>
