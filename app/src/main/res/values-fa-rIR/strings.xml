@@ -3,4 +3,8 @@
     <string name="app_name">Kamelia\'s Android Labs</string>
     <string name="hello_message">روز همگی بخیر!</string>
     <string name="button_message">من دکمه هستم</string>
+    <string name="button1">دکمه 1</string>
+    <string name="button2">دکمه 2</string>
+    <string name="button3">دکمه 3</string>
+    <string name="spin_message">چرخش پرچم</string>
 </resources>
