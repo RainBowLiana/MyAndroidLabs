@@ -4,7 +4,7 @@
     package="algonquin.cst2335.peze0001">
     <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
     <uses-feature android:name="android.software.leanback" android:required="true"/>
-    android:banner="@drawable/...
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,6 +13,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.KameliasAndroidLabs"
+        android:banner="@drawable/logo"
         tools:targetApi="31">
         <activity
             android:name="ui.MainActivity"
