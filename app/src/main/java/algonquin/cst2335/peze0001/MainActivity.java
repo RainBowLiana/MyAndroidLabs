@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 /**
  * This class is used to check the password requirements and provide the correct toast message.
- * @author Kamelia
+ * @author Kamelia Pezeshki
  * @version 1.0
  */
 public class MainActivity extends AppCompatActivity {
