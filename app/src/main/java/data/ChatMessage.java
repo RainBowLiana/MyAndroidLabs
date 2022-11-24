@@ -19,7 +19,8 @@ public class ChatMessage {
 
 
 
-    @PrimaryKey
+    @PrimaryKey (autoGenerate = true)
+    @ColumnInfo(name = "id")
     public int id;
 
 
@@ -48,6 +49,13 @@ public class ChatMessage {
     }
 
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 
     public void setMessage(String message) {
         this.message = message;
